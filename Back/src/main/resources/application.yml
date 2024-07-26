@@ -1,0 +1,4 @@
+game:
+  unlimited: false
+  maxAttempts: 10
+  timeLimit: 300 # Время в секундах
