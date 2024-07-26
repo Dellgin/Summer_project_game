@@ -18,7 +18,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone "https://github.com/Dellgin/Summer_project_game/edit/main/README.md"
+    git clone "https://github.com/Dellgin/Summer_project_game"
     ```
 
 2. Импортируйте dump.sql в PostgreSQL.
